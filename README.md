@@ -1,6 +1,5 @@
-# CS2200
-## **🏫 Georgia Tech's Computer Systems and Networks Course (Fall 2023)**
-### **Course Goals**
+# 🏫 CS2200 - Georgia Tech's Computer Systems and Networks Course (Fall 2023)
+## **Course Goals**
 Provide a broad exposure to computer system structure and networking including software abstractions in operating systems for orchestrating the usage of the computing resources:
 - Organization of the processor
 - Memory hierarchy
@@ -9,7 +8,7 @@ Provide a broad exposure to computer system structure and networking including s
 - Networking hardware
 - Software abstractions in the operating systems for orchestrating their usage
 - Networking protocols to connect the computer system to its environment
-### **Course Outcomes**
+## **Course Outcomes**
 - (Competency Knowledge) Understand the difference between RISC and CISC architectures. Be able to identify the strengths and weaknesses of each paradigm.
 - (Competency Knowledge) Understand and be able to explain runtime system concepts such as procedure calls and register saving. Be able to write recursive subroutines in assembly.
 - (Competency Application) Understand how a processor is controlled. Given a datapath and an instruction set be able to write the finite state machine steps in a high-level meta language.
@@ -32,7 +31,7 @@ Pipelining Hazards: Structural, Data, and Control
 - (IP) addresses, protocol stacks, TCP/IP, routing, hubs/repeaters, bridges, VLANS, routers.
 - (Competency Knowledge) Understand fundamentals of I/O devices such as polling versus interrupts, memory-mapped I/O, device registers (data, control, and status), disk memory concepts (sectors, tracks, platters, cylinders, seek time, rotational latency), disk scheduling algorithms (FCFS, SSTF, scan, c-scan, look, c-look)
 - (Accomplishment Synthesis) Write and debug medium-sized C programs that simulate various of the above subsystems (interrupt enabled processor, virtual memory, multi-threaded operating system schedulers, reliable transport layer protocol which will be examples of operating-system-like coding.
-#### **Projects**
+### **Projects**
 - Project 01 - [Building the LC-2222 CPU](https://github.com/MichaelEdoigiawerie/GT_CS2200/tree/main/Project1)
 - Project 02 - [LC-2222 CPU with Interrupts](https://github.com/MichaelEdoigiawerie/GT_CS2200/tree/main/Project2)
 - Project 03 - [Virtual Memory Simulation](https://github.com/MichaelEdoigiawerie/GT_CS2200/tree/main/Project3)
