@@ -1,12 +1,11 @@
 # 🏫 CS2200 - Georgia Tech's Computer Systems and Networks Course (Fall 2023)
 ## **Course Goals**
 Provide a broad exposure to computer system structure and networking including software abstractions in operating systems for orchestrating the usage of the computing resources:
-- Organization of the processor
-- Memory hierarchy
-- Storage devices
-- Parallel processors
-- Networking hardware
-- Software abstractions in the operating systems for orchestrating their usage
+- Organization of The Processor
+- Memory Hierarchy
+- Storage Devices
+- Parallel Processors
+- Networking Hardware
 - Networking protocols to connect the computer system to its environment
 ## **Course Outcomes**
 - (Competency Knowledge) Understand the difference between RISC and CISC architectures. Be able to identify the strengths and weaknesses of each paradigm.
