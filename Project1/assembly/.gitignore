@@ -1,0 +1,4 @@
+*.bin
+*.hex
+*.sym
+/__pycache__
